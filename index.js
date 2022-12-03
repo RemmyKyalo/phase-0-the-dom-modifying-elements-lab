@@ -6,4 +6,4 @@ let newHeader = document.createElement("h1");
 newHeader.id = "victory";
 newHeader.innerHTML = "Victor is the champion";
 const victory = document.getElementById("victory");
-victory.innerHTML = "<h1>YOUR-NAME is the champion</h1>";
+victory.innerHTML = "YOUR-NAME is the champion";
